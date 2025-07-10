@@ -1,4 +1,7 @@
-# 第三方claude服务
+# A curated list of third-party platforms providing OpenAI / Claude / DeepSeek APIs for learning, research, and non-commercial use.
+
+# services
 - anyrouter
-[https://anyrouter.top](https://anyrouter.top/register?aff=2df3)，注册送100美金
+[https://anyrouter.top](https://anyrouter.top/register?aff=2df3)，free for 100$
+
 
